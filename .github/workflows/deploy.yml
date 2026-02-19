@@ -1,4 +1,4 @@
-name: Lab
+name: ieat-frontend
 
 on:
   push:
