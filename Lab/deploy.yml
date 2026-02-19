@@ -25,7 +25,7 @@ jobs:
         with:
           context: ./
           push: true
-          tags: twilighttrill/Lab:latest
+          tags: twilighttrill/ieat-frontend:latest
           cache-from: type=gha
           cache-to: type=gha,mode=max
 
